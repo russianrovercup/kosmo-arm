@@ -1,0 +1,3 @@
+# Local helper scripts for generating STL previews
+/tools/render_stl_previews.py
+/tools/render_stl_blender.py
